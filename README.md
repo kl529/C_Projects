@@ -13,8 +13,8 @@ Simple Projects If you want to get more informations, visit [here.](https://kari
 
 SR No   | Project 
 --- | --- 
-1 | [Basic_Study](https://github.com/kl529/Python_Projects/tree/main/01.%20Tetris) 
-2 | [BoostCourse(Naver)(CS50)](https://github.com/kl529/Python_Projects/tree/main/02.%20Matgo%20Game%20(Korean%20Traditonal%20Card%20Game))
+1 | [Basic_Study](https://github.com/kl529/C_Projects/tree/main/01.%20Basic%20Study) 
+2 | [BoostCourse(Naver)(CS50)](https://github.com/kl529/C_Projects/tree/main/02.%20BoostCourse(Naver)(CS50))
 3 | Not Yet❗
 4 | Not Yet❗
 5 | Not Yet❗
